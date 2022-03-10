@@ -1,5 +1,5 @@
-### Hi there 👋 Rodrigo Bruner
-## An IT professional & systems developer
+<h1 align="center">Hi there 👋 Rodrigo Bruner </h1>
+<h2 align="center"> An IT professional & systems developer </h2>
 Ben's father, software development manager and technology lover.
 
 - 🔭 I’m currently working on Vidoesoft
