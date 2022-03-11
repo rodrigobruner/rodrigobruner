@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 Rodrigo Bruner </h1>
+<h1 align="center">Hi there 👋 Bruner </h1>
 
 Ben's father, software development manager and technology lover.
 
