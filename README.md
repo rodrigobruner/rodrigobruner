@@ -1,4 +1,4 @@
-<div style=" vertical-align: middle;">
+<div style="vertical-align: middle;display: table-cell;">
   Hi there Bruner <img src="./brn_64.png" style="width:64px;height:64px;">
 </div>
 
