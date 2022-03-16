@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./brn_64.png" style="width:64px;height:64px;">Hi there Bruner </h1>
+<h1 align="middle">Hi there Bruner <img src="./brn_64.png" style="width:64px;height:64px;"> </h1>
 
 Ben's father, software development manager and technology lover.
 
