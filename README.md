@@ -1,5 +1,5 @@
 <div>
-        <h2>Hi there</h2> <img src="./brn_64.png" style="width:64px;height:64px;">
+        <h1>Hi there <img src="./brn_64.png" style="width:64px;height:64px;"></h1> 
 </div>
 
 Ben's father, software development manager and technology lover.
