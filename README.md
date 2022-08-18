@@ -10,3 +10,5 @@ Ben's father, software development manager and technology lover.
 - 👯 I’m looking to collaborate on Open Source web projects
 - 🤔 I’m looking for improve my programing skills
 - 💬 Ask me about web programing and how to brew a great craft beer 🍺
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobruner&layout=compact&count_private=true)
