@@ -1,5 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FA4D7&width=435&lines=Hi+there!+%F0%9F%91%8D;I+am+Rodrigo+Bruner.)](https://git.io/typing-svg)
-<img src="./brn_64.png" style="width:64px;height:64px;">
+<img src="./brn_64.png" style="width:64px;height:64px;">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FA4D7&width=435&lines=Hi+there!;I+am+Rodrigo+Bruner.;Good+to+see+you+here.;I+hope+you+enjoy+it.)](https://git.io/typing-svg)
 <div align="right">
   <a href="https://www.linkedin.com/in/rodrigobruner/"><img vertical-align="middle" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://dev.to/rodrigobruner"><img vertical-align="middle" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
