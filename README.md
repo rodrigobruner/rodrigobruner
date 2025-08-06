@@ -11,3 +11,5 @@ My journey in software development is driven by curiosity and a constant desire 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=php,wordpress,javascript,typescript,nextjs,java,spring,swift,mysql,postgres,apple,androidstudio,linux,docker,aws"/>
 </p>
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobruner&layout=compact&count_private=true)
