@@ -12,4 +12,8 @@ My journey in software development is driven by curiosity and a constant desire 
     <img src="https://skillicons.dev/icons?i=php,wordpress,javascript,typescript,nextjs,java,spring,swift,mysql,postgres,apple,androidstudio,linux,docker,aws"/>
 </p>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobruner&layout=compact&count_private=true)
+<p align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigobruner&layout=compact&langs_count=8&card_width=400&theme=tokyonight" />
+</a>
+</p>
