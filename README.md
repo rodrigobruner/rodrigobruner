@@ -13,7 +13,5 @@ My journey in software development is driven by curiosity and a constant desire 
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigobruner&layout=compact&langs_count=8&card_width=400&theme=tokyonight" />
-</a>
+ <img src='https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rodrigobruner&layout=compact'>
 </p>
